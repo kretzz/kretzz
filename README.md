@@ -1,5 +1,5 @@
 ### Developer 👋
 
- [![Linkedin Badge]](https://www.linkedin.com/in/joaobcastelo/) 
+ [![Linkedin]](https://www.linkedin.com/in/joaobcastelo/) 
 
 
